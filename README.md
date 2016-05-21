@@ -1,2 +1,5 @@
 # hello-world
-Quick setup for Git
+
+Hi! I am Casey,
+
+I am learning Ruby at the moment. Wish me luck!
